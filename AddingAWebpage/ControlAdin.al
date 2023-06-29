@@ -32,5 +32,5 @@ controladdin MyControlAddIn
 
     event Ready()
 
-    procedure embedPage()
+    procedure embedPage()// Should be named exactly as the function name from javascript file that you want to use/call.
 }
